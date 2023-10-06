@@ -1,0 +1,9 @@
+*say thanks.io
+*Front end -"User interface"()
+*Back end-"Retier data"(Flask)
+>>>Data BAse-data are stored as Reows and column
+>>>>>>>>"Flask Framewor"<<<<<<<<<
+Write in python
+Adventage:
+>>>>Genmga templeate
+>>>>Rwoting thing

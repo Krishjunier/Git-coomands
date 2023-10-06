@@ -1,0 +1,41 @@
+18:31 06-02-2023dsoftware
+os 
+Kernal
+Hard ware 
+DE-
+CLI-COMMAND LINE INTEFACE
+GNI-
+CD-CHANGE DIRECTORY(ARUGEMENT)
+LS-list file(Show all files)=====>ls-a(all fille with permsion)
+CD..(EXITING) USED-AS ENTERING GATE
+LS-          ()
+CP-COPY [<SOURCE>space<DESTINATION>]
+cut-MOVE(MV)
+MV AND CP ARE SIMILAR
+GIT and gitup
+Virstual controling system-store in Empty file (backup),clasisup
+GIT-tool to control VCS it is Desktop
+Getup-it is a Webbapp
+Docker-build and share code
+code-->test-->build--->deplay-->monitior
+build-Doc
+text-Jenkines(or)doc
+monitor-graphana
+Depositer-identy(project name)
+Gitup-VLC using tool
+git_comand-selectedand saved(Script)
+git_scm-source code mangement()
+get_add=
+GER_CLI=
+Doc=
+Doc_Command=
+Jinkins=
+doc-continer-
+os inside os [ilstruate(comand + Kernal)>>>>>> stimulate the os inside window]
+container- also called as VIRSTUAL MACHINE(base image)
+from-docer-comand
+doc-image-->
+(Jenkines)MN-master-deploiment
+ps-PRODUCTION SERVER with help of Jenkines
+TS-TESTER
+Repository-folder on file>>>>(uniqe name(for file))
